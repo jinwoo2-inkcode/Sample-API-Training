@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\training.csproj": {}
+    "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\training.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\training.csproj": {
+    "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\training.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\training.csproj",
+        "projectUniqueName": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\training.csproj",
         "projectName": "training",
-        "projectPath": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\training.csproj",
+        "projectPath": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\training.csproj",
         "packagesPath": "C:\\Users\\Jason Kim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\obj\\",
+        "outputPath": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

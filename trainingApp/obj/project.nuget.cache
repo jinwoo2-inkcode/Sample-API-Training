@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ulECz96eeM=",
+  "dgSpecHash": "MmMaMEVoCrc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\trainingApp\\trainingApp.csproj",
+  "projectFilePath": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\trainingApp\\trainingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason Kim\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.8\\microsoft.aspnetcore.authorization.9.0.8.nupkg.sha512",
     "C:\\Users\\Jason Kim\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.8\\microsoft.aspnetcore.components.9.0.8.nupkg.sha512",

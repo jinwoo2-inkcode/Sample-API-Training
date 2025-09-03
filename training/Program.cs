@@ -15,6 +15,7 @@ app.ApplyCorsConfig();
 
 app.MapAllHealthChecks();
 app.AddRootEndpoints();
-app.AddCourseEndpoints();
 
+app.AddErrorEndpoints();
+app.AddCourseEndpoints();
 app.Run();

@@ -1,45 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\",
+  "WorkspaceRootPath": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\training\\startup\\healthchecksconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\startup\\healthchecksconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\training\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\training\\healthchecks\\randomhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\endpoints\\errorendpoints.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\endpoints\\errorendpoints.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\endpoints\\courseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\endpoints\\courseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\startup\\healthchecksconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\startup\\healthchecksconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\healthchecks\\randomhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\healthchecks\\randomhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\training\\healthchecks\\unhealthyhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\healthchecks\\unhealthyhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\healthchecks\\unhealthyhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\training\\healthchecks\\degradedhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\healthchecks\\degradedhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\healthchecks\\degradedhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\training\\healthchecks\\healthyhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\training\\healthchecks\\healthyhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE10C58-6FFD-4B3D-B28B-112B0BA8CEF5}|training\\training.csproj|solutionrelative:training\\healthchecks\\healthyhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|c:\\users\\jason kim\\documents\\github\\training\\trainingapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\trainingapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|solutionrelative:trainingapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|c:\\users\\jason kim\\documents\\github\\training\\trainingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\trainingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|solutionrelative:trainingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|c:\\users\\jason kim\\documents\\github\\training\\trainingapp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|c:\\users\\jason kim\\documents\\github\\training\\sample-api-training\\trainingapp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E18FA39-BC91-42D3-ACC6-C51843FD8E2C}|trainingApp\\trainingApp.csproj|solutionrelative:trainingapp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,28 +62,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\Program.cs",
-              "RelativeDocumentMoniker": "training\\Program.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\Program.cs",
-              "RelativeToolTip": "training\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ErrorEndPoints.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Endpoints\\ErrorEndPoints.cs.cs",
+              "RelativeDocumentMoniker": "training\\Endpoints\\ErrorEndPoints.cs.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Endpoints\\ErrorEndPoints.cs.cs",
+              "RelativeToolTip": "training\\Endpoints\\ErrorEndPoints.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T01:42:28.377Z",
+              "WhenOpened": "2025-09-03T17:00:59.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependenciesConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\Startup\\DependenciesConfig.cs",
-              "RelativeDocumentMoniker": "training\\Startup\\DependenciesConfig.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\Startup\\DependenciesConfig.cs",
-              "RelativeToolTip": "training\\Startup\\DependenciesConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CourseEndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Endpoints\\CourseEndPoints.cs",
+              "RelativeDocumentMoniker": "training\\Endpoints\\CourseEndPoints.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Endpoints\\CourseEndPoints.cs",
+              "RelativeToolTip": "training\\Endpoints\\CourseEndPoints.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T01:41:36.729Z",
+              "WhenOpened": "2025-09-03T16:51:11.144Z",
               "EditorCaption": ""
             },
             {
@@ -85,106 +93,124 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Program.cs",
+              "RelativeDocumentMoniker": "training\\Program.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Program.cs",
+              "RelativeToolTip": "training\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:42:28.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependenciesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Startup\\DependenciesConfig.cs",
+              "RelativeDocumentMoniker": "training\\Startup\\DependenciesConfig.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Startup\\DependenciesConfig.cs",
+              "RelativeToolTip": "training\\Startup\\DependenciesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:41:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HealthChecksConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\Startup\\HealthChecksConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Startup\\HealthChecksConfig.cs",
               "RelativeDocumentMoniker": "training\\Startup\\HealthChecksConfig.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\Startup\\HealthChecksConfig.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\Startup\\HealthChecksConfig.cs",
               "RelativeToolTip": "training\\Startup\\HealthChecksConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T01:39:02.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RandomHealthCheck.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\HealthChecks\\RandomHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\HealthChecks\\RandomHealthCheck.cs",
               "RelativeDocumentMoniker": "training\\HealthChecks\\RandomHealthCheck.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\HealthChecks\\RandomHealthCheck.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\HealthChecks\\RandomHealthCheck.cs",
               "RelativeToolTip": "training\\HealthChecks\\RandomHealthCheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T01:33:11.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnhealthyHealthCheck.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\HealthChecks\\UnhealthyHealthCheck.cs",
-              "RelativeDocumentMoniker": "training\\HealthChecks\\UnhealthyHealthCheck.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\HealthChecks\\UnhealthyHealthCheck.cs",
-              "RelativeToolTip": "training\\HealthChecks\\UnhealthyHealthCheck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T01:32:21.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DegradedHealthCheck.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\HealthChecks\\DegradedHealthCheck.cs",
-              "RelativeDocumentMoniker": "training\\HealthChecks\\DegradedHealthCheck.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\HealthChecks\\DegradedHealthCheck.cs",
-              "RelativeToolTip": "training\\HealthChecks\\DegradedHealthCheck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T01:31:19.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T01:33:11.346Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HealthyHealthCheck.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\HealthChecks\\HealthyHealthCheck.cs",
-              "RelativeDocumentMoniker": "training\\HealthChecks\\HealthyHealthCheck.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\training\\HealthChecks\\HealthyHealthCheck.cs",
-              "RelativeToolTip": "training\\HealthChecks\\HealthyHealthCheck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Title": "UnhealthyHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\HealthChecks\\UnhealthyHealthCheck.cs",
+              "RelativeDocumentMoniker": "training\\HealthChecks\\UnhealthyHealthCheck.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\HealthChecks\\UnhealthyHealthCheck.cs",
+              "RelativeToolTip": "training\\HealthChecks\\UnhealthyHealthCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T01:28:23.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T01:32:21.265Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\trainingApp\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "trainingApp\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\trainingApp\\Pages\\Home.razor",
-              "RelativeToolTip": "trainingApp\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T00:12:38.567Z",
-              "EditorCaption": ""
+              "Title": "DegradedHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\HealthChecks\\DegradedHealthCheck.cs",
+              "RelativeDocumentMoniker": "training\\HealthChecks\\DegradedHealthCheck.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\HealthChecks\\DegradedHealthCheck.cs",
+              "RelativeToolTip": "training\\HealthChecks\\DegradedHealthCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:31:19.323Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\trainingApp\\Program.cs",
-              "RelativeDocumentMoniker": "trainingApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\trainingApp\\Program.cs",
-              "RelativeToolTip": "trainingApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "HealthyHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\HealthChecks\\HealthyHealthCheck.cs",
+              "RelativeDocumentMoniker": "training\\HealthChecks\\HealthyHealthCheck.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\training\\HealthChecks\\HealthyHealthCheck.cs",
+              "RelativeToolTip": "training\\HealthChecks\\HealthyHealthCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:49:27.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T01:28:23.486Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\trainingApp\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "trainingApp\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\trainingApp\\Pages\\Home.razor",
+              "RelativeToolTip": "trainingApp\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T00:12:38.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\trainingApp\\Program.cs",
+              "RelativeDocumentMoniker": "trainingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\trainingApp\\Program.cs",
+              "RelativeToolTip": "trainingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:49:27.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Models.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\trainingApp\\Models\\Models.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\trainingApp\\Models\\Models.cs",
               "RelativeDocumentMoniker": "trainingApp\\Models\\Models.cs",
-              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\trainingApp\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Jason Kim\\Documents\\GitHub\\training\\Sample-API-Training\\trainingApp\\Models\\Models.cs",
               "RelativeToolTip": "trainingApp\\Models\\Models.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:49:23.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:49:23.647Z"
             }
           ]
         }
