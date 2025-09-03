@@ -1,0 +1,25 @@
+﻿@page "/"
+@using trainingApp.Models
+@inject HttpClient http
+
+<PageTitle>Courses</PageTitle>
+
+<h1>All Courses</h1>
+
+@if (courses is not null)
+{
+    @foreach(var c in courses)
+    {
+        <a href="@c.courseURL">
+            <img width="300" src="@c.courseImage" />
+        </a>
+    }
+}
+
+@code{
+    private List<Models>? courses;
+    protected override async Task OnInitializedAsync()
+    {
+        courses = await http.GetFromJsonAsync<List<Models>>("http://localhost:5095");
+    }
+}
